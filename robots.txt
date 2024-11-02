@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://etuqeodu.github.io/QHb/sitemap_index.txt
+Sitemap: https://etuqeodu.github.io/RoK/sitemap_index.txt
+Sitemap: https://etuqeodu.github.io/aUP/sitemap_index.txt
+Sitemap: https://etuqeodu.github.io/wXO/sitemap_index.txt
